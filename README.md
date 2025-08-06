@@ -95,7 +95,7 @@ You can find the detailed experiment results in **Section 3** of our paper.
 
 ## Debiasing
 
-We implement a simple debiasing method with reordering trick to tackle the sparsity of certain patterns.
+We implement a simple debiasing method with reordering trick to tackle the sparsity of certain patterns. You can find the detailed debiasing method and experimental results in **Section 4** of our paper.
 
 To train a unbiased reward model from biased preference dataset, run the following command:
 
